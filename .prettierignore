@@ -1,0 +1,5 @@
+# random
+build
+coverage
+out/
+*.html
